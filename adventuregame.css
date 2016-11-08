@@ -1,0 +1,134 @@
+body{
+	background-image: url("wekker.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#text1 {
+	float: right;
+	background-color: white;
+	font-size: 20px;
+	font-family: Verdana;
+	padding: 10px;
+}
+
+#button1 {
+	margin-top: 510px;
+	margin-left: 300px;
+	background-color: red;
+}
+
+#pijlrechts {
+	width: 80px;
+	height: 80px;
+	display: none;
+}
+#pijllinks {
+	width: 80px;
+	height: 80px
+}
+
+#button3 {
+	position: absolute;
+	display: none;
+	top: 410px;
+	color: white;
+	left: 30px;
+	background-color: transparent;
+	border-color: transparent;
+
+}
+
+#button2 {
+	position: absolute;
+	display: none;
+	top: 420px;
+	left: 1450px;
+	color: white;
+	background-color: transparent;
+	border-color: transparent;
+}
+#button4 {
+	position: absolute;
+	display: none;
+	background-color: transparent;
+	border-color: transparent;
+	top: 530px;
+	left: 800px;
+}
+#pijlrecht {
+	width: 80px;
+	height: 80px;
+
+}
+#button5 {
+	position: absolute;
+	display: none;
+	background-color: transparent;
+	border-color: transparent;
+	top: 400px;
+	left: 300px;
+
+}
+#button6 {
+	position: absolute;
+	display: none;
+	background-color: white;
+	left: 1300px;
+	top: 650px;
+}
+
+#button7{
+	position: absolute;
+	display: none;
+	background-color: transparent;
+	border-color: transparent;
+	left: 700px;
+	bottom: 200px;
+
+}
+#button8 {
+	position: absolute;
+	display: none;
+	left: 1200px;
+	top: 650px;
+}
+#secret {
+	width: 50px;
+	height: 50px;
+	opacity: 0.4;
+}
+#button9 {
+	background-color: transparent;
+	border-color: transparent;
+	position: absolute;
+	left: 1500px;
+	top: 700px;
+	display: none;
+}
+#button10 {
+	position: absolute;
+	left: 200px;
+	top: 500px;
+	display: none;
+}
+#button11 {
+	position: absolute;
+	left: 1200px;
+	top: 500px;
+	display: none;
+}
+#button12 {
+	position: absolute;
+	display: none;
+	background-color: transparent;
+	border-color: transparent;
+	position: absolute;
+	top: 530px;
+	left: 60px;
+}
+#bullit {
+	width: 50px;
+	height: 50px;
+	opacity: 0.3;
+}
